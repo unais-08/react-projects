@@ -23,9 +23,7 @@ This repository contains a collection of React projects developed during my lear
 - **Shopping Cart**: A shopping cart app with `useReducer` for state management and `useContext` for passing state across components.
 
 ### 4. **useContext With React Routers**
-- **Routing with Auth**
-
-- A MERN stack project implementing authentication and routing. Users are fetched from the database, and routes are protected based on the authentication state. It includes `useContext` for passing state across components.
+- **Routing with Auth**: A MERN stack project implementing authentication and routing. Users are fetched from the database, and routes are protected based on the authentication state. It includes `useContext` for passing state across components.
 
 ## Purpose
 
